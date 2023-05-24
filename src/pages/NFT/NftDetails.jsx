@@ -45,13 +45,13 @@ export default function NftDetails() {
                 });
         }
     }, [nft]);
-
+    console.log(nft)
     return (
         <div className='container-fluid'>
             <div className="container">
                 <div className='row py-5'>
                     <div className='col-md-6'>
-                        {pdfBlobUrl ? (
+                        {nft && pdfBlobUrl ? (
                             <div
                                 style={{
                                     height: '100%',
@@ -59,8 +59,6 @@ export default function NftDetails() {
                             >
                                 <Viewer fileUrl={pdfBlobUrl} plugins={[defaultLayoutPluginInstance]} />
                             </div>
-
-
                         ) : (
                             <img src={nft?.image} alt={nft?.name} className='img-fluid' />
                         )}
