@@ -1,0 +1,245 @@
+[
+    {
+        "id": 1,
+        "name": "Nakamigos #1",
+        "image": "https://imprensanacional.pt/wp-content/uploads/2022/07/2009.png",
+        "pdf": "/pdf/2009-Agenda_MdA_compressed.pdf",
+        "attributes": [
+            {
+                "trait_type": "Hat/Helmet",
+                "value": "Lumberjack Hat"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Flat"
+            },
+            {
+                "trait_type": "Shirt/Jacket",
+                "value": "Breakdancer Blue"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Human Latte"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Nakamigos #2",
+        "image": "https://ipfs.io/ipfs/QmXqirGqZXU3mDHpjCBzNz4f6fPXkXyyNxdrPdD6wiPDrw",
+        "attributes": [
+            {
+                "trait_type": "Facial Hair",
+                "value": "Solid Beard"
+            },
+            {
+                "trait_type": "Shirt/Jacket",
+                "value": "Breakdancer Elite"
+            },
+            {
+                "trait_type": "Hair",
+                "value": "Frump"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Human Latte"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Nakamigos #3",
+        "image": "https://ipfs.io/ipfs/QmRtCwEWcueRSF7SFBR1gjjzvFrucVe3hYQudKgwGbR47z",
+        "attributes": [
+            {
+                "trait_type": "Vest/Armor",
+                "value": "Life Vest"
+            },
+            {
+                "trait_type": "Hair",
+                "value": "Long Blonde"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Flat"
+            },
+            {
+                "trait_type": "Shirt/Jacket",
+                "value": "Long Sleeve Olive"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Human Latte"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Nakamigos #4",
+        "image": "https://ipfs.io/ipfs/QmXU8zrLz5hqr5EdggxEtowtHkAYFc6jHjrqMy7MiRXVtV",
+        "attributes": [
+            {
+                "trait_type": "Type",
+                "value": "Human Coffee"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Flat"
+            },
+            {
+                "trait_type": "Hat/Helmet",
+                "value": "Backwards Cap Blue"
+            },
+            {
+                "trait_type": "Shirt/Jacket",
+                "value": "Football - Broadway J"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Nakamigos #5",
+        "image": "https://ipfs.io/ipfs/QmSvKZNA2137J1RzTDiw5brfCxap4Fi3t6sjBwhVpk4YZR",
+        "attributes": [
+            {
+                "trait_type": "Headphones",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Shirt/Jacket",
+                "value": "Puffy Coat Pink"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Human Boba"
+            },
+            {
+                "trait_type": "Glasses",
+                "value": "Havana Shades"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Flat"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Nakamigos #6",
+        "image": "https://ipfs.io/ipfs/Qme1aVPBNATxKpnnr1ttGovEGSUs2FtK1KpmG2v5CySJpV",
+        "attributes": [
+            {
+                "trait_type": "Shirt/Jacket",
+                "value": "Varsity Green"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Flat"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Human Latte"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Nakamigos #7",
+        "image": "https://ipfs.io/ipfs/Qmbagc6fU7T9QRTAMspTFGuu4KuhssYYzP858bH92ZXh9X",
+        "attributes": [
+            {
+                "trait_type": "Type",
+                "value": "Human Mocha"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Flat"
+            },
+            {
+                "trait_type": "Shirt/Jacket",
+                "value": "Faux Shearling"
+            },
+            {
+                "trait_type": "Headband",
+                "value": "Blue"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Nakamigos #8",
+        "image": "https://ipfs.io/ipfs/QmXq2QtRaD9kY823MNrF3uwyCBJtjw19opj8ES14mamfwB",
+        "attributes": [
+            {
+                "trait_type": "Hat/Helmet",
+                "value": "FB Helmet Orange"
+            },
+            {
+                "trait_type": "Shirt/Jacket",
+                "value": "T-shirt Vneck"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Flat"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Human Invisible"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Nakamigos #9",
+        "image": "https://ipfs.io/ipfs/QmZF3mkubdrQQbtCAFwYazGkWkG8kbNSKnJVQXTLb4D37Q",
+        "attributes": [
+            {
+                "trait_type": "Glasses",
+                "value": "Nerd Glasses"
+            },
+            {
+                "trait_type": "Shirt/Jacket",
+                "value": "Camo Jacket"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Flat"
+            },
+            {
+                "trait_type": "Hat/Helmet",
+                "value": "Bucket Hat Teal"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Human Latte"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Nakamigos #10",
+        "image": "https://ipfs.io/ipfs/QmYkS46SRvBJ2qkZCrLBca3r9mtYwUBFDCJAkbVquUPNhC",
+        "attributes": [
+            {
+                "trait_type": "Shirt/Jacket",
+                "value": "Breakdancer Elite"
+            },
+            {
+                "trait_type": "Type",
+                "value": "Human Boba"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Flat"
+            },
+            {
+                "trait_type": "Hair",
+                "value": "Frump"
+            },
+            {
+                "trait_type": "Smoke",
+                "value": "Cig"
+            }
+        ]
+    }
+]
