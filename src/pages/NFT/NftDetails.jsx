@@ -52,7 +52,15 @@ export default function NftDetails() {
                 <div className='row py-5'>
                     <div className='col-md-6'>
                         {pdfBlobUrl ? (
-                            <Viewer fileUrl={pdfBlobUrl} plugins={[defaultLayoutPluginInstance]} />
+                            <div
+                                style={{
+                                    height: '100%',
+                                }}
+                            >
+                                <Viewer fileUrl={pdfBlobUrl} plugins={[defaultLayoutPluginInstance]} />
+                            </div>
+
+
                         ) : (
                             <img src={nft?.image} alt={nft?.name} className='img-fluid' />
                         )}
