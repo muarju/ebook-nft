@@ -54,7 +54,7 @@ export default function NftDetails() {
                         {nft && pdfBlobUrl ? (
                             <div
                                 style={{
-                                    height: '100%',
+                                    height: '40rem',
                                 }}
                             >
                                 <Viewer fileUrl={pdfBlobUrl} plugins={[defaultLayoutPluginInstance]} />
