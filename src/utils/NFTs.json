@@ -1,9 +1,9 @@
 [
     {
         "id": 1,
-        "name": "Nakamigos #1",
+        "name": "Adolfo Casais Monteiro #1",
         "image": "https://imprensanacional.pt/wp-content/uploads/2022/07/2009.png",
-        "pdf": "/pdf/sample.pdf",
+        "pdf": "/pdf/2009-Agenda_MdA_compressed.pdf",
         "attributes": [
             {
                 "trait_type": "Hat/Helmet",
@@ -25,8 +25,9 @@
     },
     {
         "id": 2,
-        "name": "Nakamigos #2",
-        "image": "https://ipfs.io/ipfs/QmXqirGqZXU3mDHpjCBzNz4f6fPXkXyyNxdrPdD6wiPDrw",
+        "name": "Sample PDF #2",
+        "image": "/images/pdf.png",
+        "pdf": "/pdf/sample.pdf",
         "attributes": [
             {
                 "trait_type": "Facial Hair",
