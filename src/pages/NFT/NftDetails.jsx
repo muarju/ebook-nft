@@ -48,16 +48,20 @@ export default function NftDetails() {
 
     return (
         <div className='container-fluid'>
-            <div className='row py-5'>
-                <div className='col-md-6'>
-                    {pdfBlobUrl ? (
-                        <Viewer fileUrl={pdfBlobUrl} plugins={[defaultLayoutPluginInstance]} />
-                    ) : (
-                        <img src={nft?.image} alt={nft?.name} className='img-fluid' />
-                    )}
-                </div>
-                <div className='col-md-6'>
-                    <h3>{nft?.name}</h3>
+            <div className="container">
+                <div className='row py-5'>
+                    <div className='col-md-6'>
+                        {pdfBlobUrl ? (
+                            <Viewer fileUrl={pdfBlobUrl} plugins={[defaultLayoutPluginInstance]} />
+                        ) : (
+                            <img src={nft?.image} alt={nft?.name} className='img-fluid' />
+                        )}
+                    </div>
+                    <div className='col-md-6'>
+                        <h3>{nft?.name}</h3>
+                        <p>«Philip Roth e as personagens por ele concebidas numa cena histórica contemporânea surgem radicalmente ancoradas num espaço, Newark. Ali se reconhece a especificidade de tecidos sociais e étnicos — com óbvia incidência no microcosmo judaico — que, ao longo do tempo, foram (re)configurando o perfil daquele espaço. E, todavia, a sua obra transcende essas fronteiras geográficas, afirmando-se como uma alegoria crítica da sociedade americana do pós-guerra.» in Contracapa</p>
+
+                    </div>
                 </div>
             </div>
         </div>
